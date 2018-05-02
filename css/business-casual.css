@@ -333,6 +333,9 @@ section h1 {
   text-align: center;
   width: 300px;
 }
+.cta.last {
+  margin-bottom: 20px;
+}
 .cta:hover {
   background: #0984e3;
   color: #fff;
