@@ -341,3 +341,11 @@ section h1 {
   color: #fff;
   text-decoration: none;
 }
+.custom-email-validation-error {
+  color: red;
+  font-weight: bold;
+  display: none;
+}
+.custom-email-validation-error.show-error {
+  display: block;
+}
